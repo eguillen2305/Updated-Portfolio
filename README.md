@@ -1,6 +1,12 @@
 # Updated Portfolio
+
+## Online Demo
+You can test a fully working live demo at
+
+[Link to your project](www.linktoyourproject.com)
+
+```
  
-# Title of Application
 
 [![Name of Label](https://img.shields.io/badge/addtexthere-changestatus-blue.svg)](www.Placelinktowebsitehere.com)
 [![Name of Label](https://img.shields.io/badge/addtexthere-changestatus-green.svg)](www.Placelinktowebsitehere.com)
@@ -17,14 +23,7 @@ how is it different ? -->
 
 ![Giphy Description](https://media.giphy.com/media/QFAmltthDae8o/giphy.gif))
 
-## How to use my App
 
-### Online Demo
-You can test a fully working live demo at
-
-[Link to your project](www.linktoyourproject.com)
-
-```
 ### Local Demo
 1. first clone the application to your local file
 `git clone XXXXXX`
@@ -38,11 +37,6 @@ You can test a fully working live demo at
  ![](http://williamavasquez.herokuapp.com/img/mongo.png)
  ![](http://williamavasquez.herokuapp.com/img/react.png)
 
-
-## Collaborators and Team
-- [William Vasquez](https://github.com/williamavasquez)
-- [Nate Hawley](https://github.com/Nhawley)
-- [Ahmed Haque](https://github.com/afhaque)
 
 ## License
 This project is licensed under the terms of the **MIT** license.
